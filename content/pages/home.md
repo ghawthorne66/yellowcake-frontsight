@@ -7,6 +7,8 @@ subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 accordion:
   - content: This is an Accordion
     title: Accordion
+  - content: This is Accordion Two
+    title: Accordion Two
 meta:
   description: This is a meta description.
   noindex: false
