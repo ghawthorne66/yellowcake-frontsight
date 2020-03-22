@@ -16,6 +16,19 @@ meta:
   description: Digital marketing and SEO for HVAC contractors.
   noindex: false
   title: Front Sight Marketing
+section1: >-
+  ## This is a container component
+
+ 
+section2: |-
+  ## You can use videos, images and text.
+
+ 
+
+video: 
+videoPoster: 
+videoTitle: 
+  
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
