@@ -10,9 +10,9 @@ accordion:
   - content: This is Accordion Two
     title: Accordion Two
 meta:
-  description: This is a meta description.
+  description: Digital marketing and SEO for HVAC contractors.
   noindex: false
-  title: The Ultimate Gatsby Starter
+  title: Front Sight Marketing
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
