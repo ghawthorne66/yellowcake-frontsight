@@ -1,9 +1,12 @@
 ---
 template: HomePage
 slug: ''
-title: Hello
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: DIGITAL MARKETING FOR THE HVAC BUSINESS
+featuredImage: >-
+  https://ucarecdn.com/6c0900ee-4446-4210-9f41-3b33ccf30655/-/preview/-/enhance/47/
+subtitle: >-
+  Tired of wasting money on mediocre results in your marketing? Congratulations,
+  you've found the solution
 accordion:
   - content: This is an Accordion
     title: Accordion
