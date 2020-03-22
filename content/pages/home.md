@@ -12,6 +12,17 @@ accordion:
     title: Accordion
   - content: This is Accordion Two
     title: Accordion Two
+section1: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/eEep67akIn4" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
+section2: >-
+  ![Front Sight logo](https://ucarecdn.com/83ad77f1-f579-4bab-9253-3ff06cce5c43/
+  "Front Sight Marketing")
+video: 'https://ucarecdn.com/deb89a2b-0fb0-4310-8edb-51fd083449b6/'
+videoPoster: 'https://ucarecdn.com/778de834-8228-4c30-b869-53b9790b4c50/'
+videoTitle: Car Showcase
 meta:
   description: Digital marketing and SEO for HVAC contractors.
   noindex: false
