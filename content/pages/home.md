@@ -17,6 +17,14 @@ section1: >-
   src="https://www.youtube.com/embed/AV7F8d4R1wY?start=2" frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
   picture-in-picture" allowfullscreen></iframe>
+section2: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/AV7F8d4R1wY?start=2" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
+video: 'https://ucarecdn.com/2be59e20-b8d3-4797-b67f-08de845a47c8/'
+videoPoster: 'https://ucarecdn.com/19ac2d2d-b36e-4ca6-a28a-7a7c9ea3ddaa/'
+videoTitle: Test Title
 meta:
   description: Digital marketing and SEO for HVAC contractors.
   noindex: false
