@@ -1,9 +1,9 @@
 import React from 'react'
-import './Logo.css'
+import './Phone.css'
 
 export default () => (
   <div
-    className="Logo"
+    className="Phone"
     style={{
       backgroundImage: `url(/images/fs_logo_red.png)`
     }}
