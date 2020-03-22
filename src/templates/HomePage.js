@@ -28,11 +28,11 @@ export const HomePageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Content source={section1} />
       </div>
-    </section>
+    </section> */}
     {/* <section className="section">
       <div className="container">
         <h2>Our gallery component</h2>
@@ -40,23 +40,24 @@ export const HomePageTemplate = ({
       </div>
     </section> */}
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Content source={section2} />
       </div>
-    </section>
+    </section> */}
 
-    <section className="BackgroundVideo-section section">
+    {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
-    </section>
+    </section> */}
 
     <section className="section">
       <div className="container">
         <Content source={body} />
       </div>
     </section>
+    
   </main>
 )
 
