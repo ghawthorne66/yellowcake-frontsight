@@ -19,8 +19,6 @@ section1: >-
   # **We Help Successful Businesses Grow**
 
 
-
-
   ## **Are you a successful, growth-oriented business looking to add 15-20% to
   your company’s revenue?**
 
@@ -31,15 +29,17 @@ section1: >-
   trying to convey, and when and where is the best time to contact them
 
 
-  <iframe width="480" height="270"
-  src="https://www.youtube.com/embed/eEep67akIn4" frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope;
-  picture-in-picture"></iframe>
-meta:
-  description: Digital marketing and SEO for HVAC contractors.
-  noindex: false
-  title: Front Sight Marketing
-videoPoster: 'https://ucarecdn.com/778de834-8228-4c30-b869-53b9790b4c50/'
+  <!-- blank line -->
+
+
+  <figure class="video_container">
+
+    <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+
+  </figure>
+
+
+  <!-- blank line -
 section2: >-
   # **15-20% MORE**
 
@@ -61,8 +61,10 @@ section2: >-
 
 
   ### Changes that result in more leads, better leads… and higher profits.
-video: 'https://ucarecdn.com/deb89a2b-0fb0-4310-8edb-51fd083449b6/'
-videoTitle: Car Showcase
+meta:
+  description: Digital marketing and SEO for HVAC contractors.
+  noindex: false
+  title: Front Sight Marketing
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
