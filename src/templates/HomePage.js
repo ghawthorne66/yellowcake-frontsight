@@ -1,11 +1,12 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
+
 import PageHeader from '../components/PageHeader'
-import BackgroundVideo from '../components/BackgroundVideo'
-import Gallery from '../components/Gallery'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import '../components/PageHeader.css'
+
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({
@@ -22,42 +23,34 @@ export const HomePageTemplate = ({
   gallery
   }) => (
   <main className="Home">
-    <PageHeader
+    <div>
+     <PageHeader
       large
       title={title}
       subtitle={subtitle}
       backgroundImage={featuredImage}
-    />
-    {/* <section className="section">
+      />
+     </div>
+     
+    <section className="section">
       <div className="container">
         <Content source={section1} />
       </div>
-    </section> */}
-    {/* <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section> */}
+    </section>
+  
 
-    {/* <section className="section">
+    <section className="section">
       <div className="container">
         <Content source={section2} />
       </div>
-    </section> */}
-
-    {/* <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
-    </section> */}
+    </section>
 
     <section className="section">
       <div className="container">
         <Content source={body} />
       </div>
     </section>
-    
+
   </main>
 )
 

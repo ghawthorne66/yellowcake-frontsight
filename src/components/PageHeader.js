@@ -9,6 +9,7 @@ const PageHeader = ({
   title,
   subtitle,
   backgroundImage,
+  // button,
   large,
   className = ''
 }) => {
@@ -27,9 +28,11 @@ const PageHeader = ({
       <div className="container relative">
         <h1 className="PageHeader--Title">{title}</h1>
         {subtitle && (
-          <Content className="PageHeader--Subtitle" src={subtitle} />
-        )}
+          <Content className="PageHeader--Subtitle" src={subtitle}   />
+          
+          )}
       </div>
+          {/* <button className="btn-white">{button}</button> */}
     </div>
   )
 }
