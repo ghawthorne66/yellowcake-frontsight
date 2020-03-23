@@ -13,20 +13,56 @@ accordion:
   - content: This is Accordion Two
     title: Accordion Two
 section1: >-
-  <iframe width="560" height="315"
+  #### What we do
+
+
+  # **We Help Successful Businesses Grow**
+
+
+
+
+  ## **Are you a successful, growth-oriented business looking to add 15-20% to
+  your company’s revenue?**
+
+
+  ###### Whether you call it Digital Marketing, Pay Per Click Advertising or
+  Inbound Marketing…That’s what we do. We use a client-specific approach to
+  figure out who our clients are trying to attract, which message they are
+  trying to convey, and when and where is the best time to contact them
+
+
+  <iframe width="480" height="270"
   src="https://www.youtube.com/embed/eEep67akIn4" frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
-  picture-in-picture" allowfullscreen></iframe>
-section2: >-
-  ![Front Sight logo](https://ucarecdn.com/83ad77f1-f579-4bab-9253-3ff06cce5c43/
-  "Front Sight Marketing")
-video: 'https://ucarecdn.com/deb89a2b-0fb0-4310-8edb-51fd083449b6/'
-videoPoster: 'https://ucarecdn.com/778de834-8228-4c30-b869-53b9790b4c50/'
-videoTitle: Car Showcase
+  picture-in-picture"></iframe>
 meta:
   description: Digital marketing and SEO for HVAC contractors.
   noindex: false
   title: Front Sight Marketing
+videoPoster: 'https://ucarecdn.com/778de834-8228-4c30-b869-53b9790b4c50/'
+section2: >-
+  # **15-20% MORE**
+
+
+  ### We view all of our customers’ relationships as partnerships. We can not
+  succeed without your help. As such we make sure to include you in every step
+  of your campaigns creative. This ensures that the digital marketing campaigns
+  we create represent your company in a voice that connects with your ideal
+  clientele.
+
+
+
+
+  ### After we launch your campaign, we systematically examine, troubleshoot and
+  test each step of its performance.\
+
+  Because of the comprehensive analytical data we collect throughout our
+  process, we have the ability and the experience to implement driven changes.
+
+
+  ### Changes that result in more leads, better leads… and higher profits.
+video: 'https://ucarecdn.com/deb89a2b-0fb0-4310-8edb-51fd083449b6/'
+videoTitle: Car Showcase
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
